@@ -1,0 +1,43 @@
+{ 
+    "COINS": {
+        "penny": {
+            "weight_in_grams": 2.5,
+            "thickness_in_mm": 1.52,
+            "cents_value": 1, 
+            "key": 1,
+            "validity": "False"
+        },
+        "nickle": {
+            "weight_in_grams": 5,
+            "thickness_in_mm": 1.92,
+            "cents_value": 5, 
+            "key": 2,
+            "validity": "True"
+        },
+        "dime": {
+            "weight_in_grams": 2.268,
+            "thickness_in_mm": 1.35,
+            "cents_value": 10, 
+            "key": 3,
+            "validity": "True"
+        },
+        "quarter": {
+            "weight_in_grams": 2.5,
+            "thickness_in_mm": 1.52,
+            "cents_value": 1, 
+            "key": 1,
+            "validity": "True"
+        }
+    },
+    "INVENTORY": {
+        "cola": {
+            "cost_in_cents": 100
+        },
+        "chips": {
+            "cost_in_cents": 50
+        },
+        "candy": {
+            "cost_in_cents": 65
+        }
+    }
+}
